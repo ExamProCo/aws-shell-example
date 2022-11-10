@@ -2,4 +2,4 @@
 
 Use AWS Shell with Gitpod
 
-[https://gitpod.io/#https://github.com/teacherseat/aws-shell-example](Launch Gitpod Workspace)
+[Launch Gitpod Workspace](https://gitpod.io/#https://github.com/teacherseat/aws-shell-example)
